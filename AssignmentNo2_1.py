@@ -8,3 +8,5 @@ orangeQuestion = int(input("How many oranges do you want to buy?"))
 
 applePrice = 20
 orangePrice = 25
+
+appleTotal = appleQuestion * applePrice
