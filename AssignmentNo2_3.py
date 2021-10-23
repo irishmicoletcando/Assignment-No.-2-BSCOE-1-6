@@ -11,3 +11,4 @@ maxNumberApples = money // apple
 # remaining money
 change = money % apple
 print(f"You can buy {maxNumberApples} apples and your change is {change: .2f} pesos.")
+# Program completed
