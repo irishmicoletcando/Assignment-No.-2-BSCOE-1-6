@@ -8,4 +8,6 @@ apple = int(input("What is the price of an apple per piece? "))
 
 # maximum number of apples
 maxNumberApples = money // apple
-print(maxNumberApples)
+# remaining money
+charge = money % apple
+print(charge)
