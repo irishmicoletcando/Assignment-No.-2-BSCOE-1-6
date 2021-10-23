@@ -9,5 +9,5 @@ apple = int(input("What is the price of an apple per piece? "))
 # maximum number of apples
 maxNumberApples = money // apple
 # remaining money
-charge = money % apple
-print(f"You can buy {maxNumberApples} apples and your change is {charge: .2f} pesos.")
+change = money % apple
+print(f"You can buy {maxNumberApples} apples and your change is {change: .2f} pesos.")
