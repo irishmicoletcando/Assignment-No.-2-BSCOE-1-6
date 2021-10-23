@@ -4,7 +4,7 @@
 # You can buy ___ apples and your change is ___ pesos.
 
 money = float(input("How much money do you have? "))
-apple = int(input("What is the price of an apple per piece? "))
+apple = float(input("What is the price of an apple per piece? "))
 
 # maximum number of apples
 maxNumberApples = money // apple
