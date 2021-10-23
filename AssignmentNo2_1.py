@@ -10,3 +10,4 @@ applePrice = 20
 orangePrice = 25
 
 appleTotal = appleQuestion * applePrice
+orangeTotal = orangeQuestion * orangePrice
