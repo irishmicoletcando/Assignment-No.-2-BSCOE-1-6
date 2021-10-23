@@ -4,3 +4,4 @@
 # The total amount is ______.
 
 appleQuestion = int(input("How many apples do you want to buy? "))
+orangeQuestion = int(input("How many oranges do you want to buy?"))
