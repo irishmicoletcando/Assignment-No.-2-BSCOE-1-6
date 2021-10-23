@@ -12,3 +12,4 @@ orangePrice = 25
 appleTotal = appleQuestion * applePrice
 orangeTotal = orangeQuestion * orangePrice
 total = appleTotal + orangeTotal
+print(f"The total amount is {total}.")
