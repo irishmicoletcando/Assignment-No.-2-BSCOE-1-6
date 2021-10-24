@@ -7,7 +7,7 @@ money = float(input("How much money do you have? "))
 apple = float(input("What is the price of an apple per piece? "))
 
 # maximum number of apples
-maxNumberApples = money // apple
+maxNumberApples = int(money // apple)
 # remaining money
 change = money % apple
 print(f"You can buy {maxNumberApples} apples and your change is {change: .2f} pesos.")
